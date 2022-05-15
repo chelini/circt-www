@@ -1,0 +1,4 @@
+<map id="circt::hw::MutableSymbolCache" name="circt::hw::MutableSymbolCache">
+<area shape="rect" id="node1" title="Like a SymbolCache, but allows for unfreezing to add new definitions." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$classcirct_1_1hw_1_1SymbolCache.html" title="This stores lookup tables to make manipulating and working with the IR more efficient." alt="" coords="12,5,185,32"/>
+</map>
